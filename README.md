@@ -1,2 +1,2 @@
 # cyg-phisher
-a phishing for cygwin users
+A phishing for cygwin users
